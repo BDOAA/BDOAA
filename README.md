@@ -12,15 +12,15 @@ Global e-Competition on Astronomy and Astrophysics 2020 এ প্রথমব�
 The academic team members of BDOAA are extremely motivated students and teachers who are experienced in the Astronomy Olympiad (past participants of national and international Olympiads) and Astronomy in general. This team includes  academic coordinators, coaching team, test writers, and graders who will oversee the academic responsibilities of BDOAA during an academic year. 
 
 *Current Coaches are*
--- Md. Mahmudunnobe
--- Fahim Rajit Hossain
--- Arnab Chowdhury
--- Serat Mahmud Saad
--- Arman Hassan
--- Hasnat Mohammad Nayeem
--- Abdullah al Rafi Mahmud
--- Turja Roy
--- Imdadullah Raji
+- Md. Mahmudunnobe
+- Fahim Rajit Hossain
+- Arnab Chowdhury
+- Serat Mahmud Saad
+- Arman Hassan
+- Hasnat Mohammad Nayeem
+- Abdullah al Rafi Mahmud
+- Turja Roy
+- Imdadullah Raji
 
 
 ## Contact Us:
