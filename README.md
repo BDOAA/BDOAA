@@ -1,4 +1,4 @@
-### Notice: We'll use/update this GitHub till our website is restored. 
+### Notice: Our website is currently live. For more details visit: https://bdoaa.org/ 
 
 **Bangladesh Olympiad on Astronomy and Astrophysics (BDOAA)** is a non-profit organization that organizes the regional and national olympiads on astronomy and astrophysics (A&A), hosts the national A&A camp in Bangladesh, and sends students to the International Olympiad on A&A (IOAA). BDOAA is the most prestigious competition on A&A in Bangladesh for school and college students and IOAA is the most prestigious international competition on A&A for students up to the age of eighteen. IOAA has been held annually since 2007 and BDOAA has been sending students to the olympiad every year since 2018. BDOAA also organizes workshops, gives career guidance to aspiring astronomers, and hosts events for the popularization of A&A.
 
