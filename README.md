@@ -7,24 +7,9 @@ Global e-Competition on Astronomy and Astrophysics 2020 এ প্রথমব�
 
 ২০২৩ সালের ১৬তম  আন্তর্জাতিক আসরে বাংলাদেশ দল প্রথম বারের মত রৌপ্য পদক অর্জন করে। দলের নেতৃত্বে ছিলেন [ফাহিম রাজিত হোসেন](@Rajit13)। ২টি রৌপ 🥈🥈 এবং একটি ব্রোঞ্জ 🥉 পদকের মাধ্যমে ২০২৩ সালে বাংলাদেশ দল সবচেয়ে ভাল ফলাফল করেছে বাংলাদেশের ইতিহাসে! 
 
-### Academic Committee (AC) 
+### Academic Team
 
-The academic team members of BDOAA are extremely motivated students and teachers who are experienced in the Astronomy Olympiad (past participants of national and international Olympiads) and Astronomy in general. This team includes  academic coordinators, a coaching team, test writers, and graders who will oversee the academic responsibilities of BDOAA during an academic year. 
-
-*Current Coaches (2026)*
-
-- Fahim Rajit Hossain Shwadhin
-- Arnab Chowdhury
-- Md. Arman Hassan
-- Tahiatun Nahar Juthi
-- Ahnaf Islam Rakin
-- Hasnat Mohammad Nayeem
-- Imdadullah Raji
-- Mohtasiba Hossain
-- Nublat Hafsa Nidhi
-- Ishmam Mostafa
-- Hritom Sarker Oyon
-- Labib Bin Azad
+[Meet the BDOAA academic team (2024–2026)](https://github.com/BDOAA/Academic-Team)
 
 ## Contact Us:
 
@@ -33,4 +18,6 @@ C7006, Plot 16, Aftabuddin Ahmed Road Bashundahara RA, Dhaka 1229, Bangladesh
 +8801781259313
 
 mail.bdoaa@gmail.com
+
+[Facebook](https://www.facebook.com/bdoaa.olympiad) · [Instagram](https://www.instagram.com/bdoaa.astro/)
 
