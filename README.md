@@ -9,11 +9,11 @@ Global e-Competition on Astronomy and Astrophysics 2020 এ প্রথমব�
 
 ### Academic Team
 
-[Meet the BDOAA academic team (2024–2026)](https://github.com/BDOAA/Academic-Team)
+[Meet the BDOAA academic team](https://github.com/BDOAA/Academic-Team)
 
 ### IOAA Participants
 
-[Bangladesh's IOAA, GeCAA and IOAA Junior participants and prizes (2018–2026)](https://github.com/BDOAA/IOAA-Participants)
+[Bangladesh's IOAA and IOAA Junior participants (2018–2026)](https://github.com/BDOAA/IOAA-Participants)
 
 ## Contact Us:
 
