@@ -1,5 +1,3 @@
-### Notice: Our website is currently live. For more details visit: https://bdoaa.org/ 
-
 **Bangladesh Olympiad on Astronomy and Astrophysics (BDOAA)** is a non-profit organization that organizes the regional and national olympiads on astronomy and astrophysics (A&A), hosts the national A&A camp in Bangladesh, and sends students to the International Olympiad on A&A (IOAA). BDOAA is the most prestigious competition on A&A in Bangladesh for school and college students and IOAA is the most prestigious international competition on A&A for students up to the age of eighteen. IOAA has been held annually since 2007 and BDOAA has been sending students to the olympiad every year since 2018. BDOAA also organizes workshops, gives career guidance to aspiring astronomers, and hosts events for the popularization of A&A.
 
 ## বাংলাদেশ জ্যোতির্বিজ্ঞান ও জ্যোতিঃপদার্থবিজ্ঞান অলিম্পিয়াড
@@ -13,17 +11,20 @@ Global e-Competition on Astronomy and Astrophysics 2020 এ প্রথমব�
 
 The academic team members of BDOAA are extremely motivated students and teachers who are experienced in the Astronomy Olympiad (past participants of national and international Olympiads) and Astronomy in general. This team includes  academic coordinators, a coaching team, test writers, and graders who will oversee the academic responsibilities of BDOAA during an academic year. 
 
-*Current Coaches are*
-- Md. Mahmudunnobe
-- Fahim Rajit Hossain
-- Arnab Chowdhury
-- Serat Mahmud Saad
-- Arman Hassan
-- Hasnat Mohammad Nayeem
-- Abdullah al Rafi Mahmud
-- Turja Roy
-- Imdadullah Raji
+*Current Coaches (2026)*
 
+- Fahim Rajit Hossain Shwadhin
+- Arnab Chowdhury
+- Md. Arman Hassan
+- Tahiatun Nahar Juthi
+- Ahnaf Islam Rakin
+- Hasnat Mohammad Nayeem
+- Imdadullah Raji
+- Mohtasiba Hossain
+- Nublat Hafsa Nidhi
+- Ishmam Mostafa
+- Hritom Sarker Oyon
+- Labib Bin Azad
 
 ## Contact Us:
 
