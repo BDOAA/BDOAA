@@ -7,6 +7,14 @@ Global e-Competition on Astronomy and Astrophysics 2020 এ প্রথমব�
 
 ২০২৩ সালের ১৬তম  আন্তর্জাতিক আসরে বাংলাদেশ দল প্রথম বারের মত রৌপ্য পদক অর্জন করে। দলের নেতৃত্বে ছিলেন [ফাহিম রাজিত হোসেন](@Rajit13)। ২টি রৌপ 🥈🥈 এবং একটি ব্রোঞ্জ 🥉 পদকের মাধ্যমে ২০২৩ সালে বাংলাদেশ দল সবচেয়ে ভাল ফলাফল করেছে বাংলাদেশের ইতিহাসে! 
 
+## Preparation resources
+
+### [Must watch videos for BDOAA](https://www.youtube.com/playlist?list=PLuhFxDhkkFqV3bjuVjXl30NjpbfDmYIsO)
+
+বিডিওএএ-এর প্রস্তুতির জন্য আমাদের বাছাই করা ভিডিওগুলো দেখো। বিষয়ভিত্তিক ধারণা পরিষ্কার করতে ভিডিওগুলোর পাশাপাশি নিয়মিত সমস্যা সমাধান করো।
+
+Recommended videos for BDOAA preparation. Use the playlist alongside regular problem-solving practice.
+
 ### Academic Team
 
 [Meet the BDOAA academic team](https://github.com/BDOAA/Academic-Team)
@@ -14,6 +22,10 @@ Global e-Competition on Astronomy and Astrophysics 2020 এ প্রথমব�
 ### IOAA Participants
 
 [Bangladesh's IOAA and IOAA Junior participants (2018–2026)](https://github.com/BDOAA/IOAA-Participants)
+
+### Team Leaders
+
+[Bangladesh's IOAA, IOAA Junior and GeCAA team leaders, by year](https://github.com/BDOAA/Team-Leaders)
 
 ## Contact Us:
 
