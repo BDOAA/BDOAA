@@ -1,4 +1,14 @@
-**Bangladesh Olympiad on Astronomy and Astrophysics (BDOAA)** is a non-profit organization that organizes the regional and national olympiads on astronomy and astrophysics (A&A), hosts the national A&A camp in Bangladesh, and sends students to the International Olympiad on A&A (IOAA). BDOAA is the most prestigious competition on A&A in Bangladesh for school and college students and IOAA is the most prestigious international competition on A&A for students up to the age of nineteen. IOAA has been held annually since 2007 and BDOAA has been sending students to the Olympiad every year since 2018. BDOAA also organizes workshops, gives career guidance to aspiring astronomers, and hosts events for the popularization of A&A.
+# Bangladesh Olympiad on Astronomy and Astrophysics (BDOAA)
+
+[Preparation](https://github.com/BDOAA/Preparation) · [National Winners](https://github.com/BDOAA/National-Winners) · [International Results](https://github.com/BDOAA/IOAA-Participants) · [Academic Team](https://github.com/BDOAA/Academic-Team) · [Team Leaders](https://github.com/BDOAA/Team-Leaders) · [News](https://github.com/BDOAA/Media) · [Press Releases](https://github.com/BDOAA/Press-Release) · [Contact](#contact)
+
+BDOAA organises regional and national astronomy and astrophysics competitions, runs training camps, and prepares Bangladesh's teams for IOAA and IOAA Junior. Former participants, university students and teachers volunteer as trainers, problem setters and evaluators.
+
+## 2026 update
+
+Bangladesh's teams earned **two bronze medals and two honourable mentions** across IOAA and IOAA Junior in 2026. Junaed Labeeb Al Waasi also joined a winning multinational group at IOAA, following Farhan Sajid's group success in 2025.
+
+[Full 2026 results, delegation details and photographs](https://github.com/BDOAA/Press-Release)
 
 ## বাংলাদেশ জ্যোতির্বিজ্ঞান ও জ্যোতিঃপদার্থবিজ্ঞান অলিম্পিয়াড
 ২০১৮ সালের ৮ই ফেব্রুয়ারি IOAA এর অনুমতিতে বাংলাদেশের জন্য দল নির্বাচনের জন্য জাতীয় অলিম্পিয়াড কতৃপক্ষ হিসেবে স্বীকৃতি পায় Bangladesh Olympiad on Astronomy and Astrophysics Committee (BDOAAC)। এই কমিটির সদস্যরা অনেকে প্রাক্তন জাতীয়, আন্তর্জাতিক অলিম্পিয়াডে অংশগ্রহণকারী শিক্ষার্থী যারা অনেকেই জ্যোতির্বিজ্ঞানে উচ্চ শিক্ষা লাভ করছে। সার্বিক তত্ত্বাবধানে আছেন মহাকাশ বিজ্ঞানপ্রেমী অনেক কর্মী ও অভিজ্ঞ ছাত্র-শিক্ষকমন্ডলী। 
@@ -10,11 +20,13 @@
 
 Global e-Competition on Astronomy and Astrophysics 2020 এ প্রথমবারের মত (অনালাইনে) পদকজয় করে BDOAA নির্বাচিত দল। দলের নেতৃত্বে ছিলেন ফাহিম রাজিত হোসেন, মোঃ মাহমুদুন্নবী এবং অর্ণব চৌধুরী। বাংলাদেশ দল GeCAA তে ২ টি রৌপ্যপদক 🥈, ৩ টি ব্রোঞ্জ পদক 🥉 এবং ১ টি অনারেবল মেনশন 🏅 পেয়েছে সাথে বাংলাদেশ দলের আরেক সদস্য গ্রুপ কম্পিটিশনে বেস্ট গ্রুপ এর ১ম পুরষ্কার 🏆 পেয়েছে। জ্যোতির্বিজ্ঞানের অঙ্গনে এটি বাংলাদেশের অন্যতম সাফল্য।
 
-২০২৩ সালের ১৬তম  আন্তর্জাতিক আসরে বাংলাদেশ দল প্রথম বারের মত রৌপ্য পদক অর্জন করে। দলের নেতৃত্বে ছিলেন [ফাহিম রাজিত হোসেন](@Rajit13)। ২টি রৌপ 🥈🥈 এবং একটি ব্রোঞ্জ 🥉 পদকের মাধ্যমে ২০২৩ সালে বাংলাদেশ দল সবচেয়ে ভাল ফলাফল করেছে বাংলাদেশের ইতিহাসে! 
+২০২৩ সালের ১৬তম  আন্তর্জাতিক আসরে বাংলাদেশ দল প্রথম বারের মত রৌপ্য পদক অর্জন করে। দলের নেতৃত্বে ছিলেন [ফাহিম রাজিত হোসেন](https://github.com/Rajit13)। ২টি রৌপ 🥈🥈 এবং একটি ব্রোঞ্জ 🥉 পদকের মাধ্যমে ২০২৩ সালে বাংলাদেশ দল সবচেয়ে ভাল ফলাফল করেছে বাংলাদেশের ইতিহাসে! 
 
 </details>
 
 ## Preparation resources
+
+- [BDOAA preparation guide](https://github.com/BDOAA/Preparation) — প্রস্তুতি কোথা থেকে শুরু করবে, কোন বিষয়গুলো পড়বে এবং কোন বইগুলো কাজে লাগবে।
 
 ### [Must watch videos for BDOAA](https://www.youtube.com/playlist?list=PLuhFxDhkkFqV3bjuVjXl30NjpbfDmYIsO)
 
@@ -41,7 +53,7 @@ Recommended videos for BDOAA preparation. Use the playlist alongside regular pro
 
 [Bangladesh's IOAA, IOAA Junior and GeCAA team leaders, by year](https://github.com/BDOAA/Team-Leaders)
 
-## Contact Us:
+## Contact
 
 C7006, Plot 16, Aftabuddin Ahmed Road Bashundahara RA, Dhaka 1229, Bangladesh
 
@@ -50,4 +62,3 @@ C7006, Plot 16, Aftabuddin Ahmed Road Bashundahara RA, Dhaka 1229, Bangladesh
 mail.bdoaa@gmail.com, bdoaa.mail@gmail.com
 
 [Facebook](https://www.facebook.com/bdoaa.olympiad) · [Instagram](https://www.instagram.com/bdoaa.astro/)
-
