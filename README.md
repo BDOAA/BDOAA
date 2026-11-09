@@ -4,9 +4,7 @@
 
 BDOAA organises regional and national astronomy and astrophysics competitions, runs training camps, and prepares Bangladesh's teams for IOAA and IOAA Junior. Former participants, university students and teachers volunteer as trainers, problem setters and evaluators.
 
-## 2026 update
-
-Bangladesh's teams earned **two bronze medals and two honourable mentions** across IOAA and IOAA Junior in 2026. Junaed Labeeb Al Waasi also joined a winning multinational group at IOAA, following Farhan Sajid's group success in 2025.
+Bangladesh's IOAA team earned **one bronze medal and one honourable mention** in IOAA 2026 and **one bronze medal and one honourable mention** IOAA Junior in 2026.
 
 [Full 2026 results, delegation details and photographs](https://github.com/BDOAA/Press-Release)
 
