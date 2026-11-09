@@ -22,6 +22,8 @@ Global e-Competition on Astronomy and Astrophysics 2020 এ প্রথমব�
 
 Recommended videos for BDOAA preparation. Use the playlist alongside regular problem-solving practice.
 
+- [বাংলা জ্যোতির্বিজ্ঞান অভিধান](https://rajit13.github.io/astro-bangla-dict.html) — Fahim Rajit Hossain Shwadhin-এর সংকলিত জ্যোতির্বৈজ্ঞানিক পরিভাষা, তারার নাম ও রাশিমণ্ডলের বাংলা অভিধান।
+
 ## News and media
 
 - [Press releases](https://github.com/BDOAA/Press-Release) — Bangladesh’s latest IOAA and IOAA Junior results, delegation details and background information.
