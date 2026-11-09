@@ -22,13 +22,18 @@ Global e-Competition on Astronomy and Astrophysics 2020 এ প্রথমব�
 
 Recommended videos for BDOAA preparation. Use the playlist alongside regular problem-solving practice.
 
-### Academic Team
+## News and media
 
-[Meet the BDOAA academic team](https://github.com/BDOAA/Academic-Team)
+- [Press releases](https://github.com/BDOAA/Press-Release) — Bangladesh’s latest IOAA and IOAA Junior results, delegation details and background information.
+- [BDOAA in the News](https://github.com/BDOAA/Media) — BDOAA's success covered in the media.
 
 ### IOAA Participants
 
 [Bangladesh's IOAA and IOAA Junior participants (2018–2026)](https://github.com/BDOAA/IOAA-Participants)
+
+### Academic Team
+
+[Meet the BDOAA academic team](https://github.com/BDOAA/Academic-Team)
 
 ### Team Leaders
 
@@ -40,7 +45,7 @@ C7006, Plot 16, Aftabuddin Ahmed Road Bashundahara RA, Dhaka 1229, Bangladesh
 
 +8801781259313
 
-mail.bdoaa@gmail.com
+mail.bdoaa@gmail.com, bdoaa.mail@gmail.com
 
 [Facebook](https://www.facebook.com/bdoaa.olympiad) · [Instagram](https://www.instagram.com/bdoaa.astro/)
 
